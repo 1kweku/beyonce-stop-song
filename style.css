@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+}
+body {
+  
+   background-color: #1f2937;
+}
+
+#timer {
+    align-items: center;
+    text-align: center;
+    background-color: #111827;
+    margin:  auto;
+    margin-top: 20px;
+    padding: 40px;
+    border-radius: 10px;
+    width: 50%;
+    max-width: 360px;
+    color: white;
+}
+
+#time {
+    font-size: x-large;
+    font-weight: 400;
+}
+
+.btn {
+    background-color: red;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: brown;
+    transform: translate();
+}
